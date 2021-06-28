@@ -1,0 +1,340 @@
+
+@media(min-width:0px) and (max-width:320px){
+    .navbar-brand {
+        width: 50%;
+    }
+
+    .navbar .container-fluid{
+        padding: 0px 0px;
+    }
+
+    .navbar-light .navbar-nav .nav-link {
+        font-size: 15px;
+    }
+
+    .navbar-toggler:focus {
+        box-shadow: 0 0 0 0.20rem #636295;
+    }
+
+    .spacing {
+        padding: 36px 0px 70px;
+        text-align: center;
+    }
+
+    .banner-content .p1 {
+        font-size: 14px;
+    }
+
+    .banner-content h1 {
+        font-size: 45px;
+        line-height: 60px;
+    }
+
+    .banner-content {
+        padding-right: 0;
+        padding-left: 0;
+    }
+
+    .banner-content .p2 {
+        font-size: 13px;
+        line-height: 28px;
+    }
+
+    .banner_image {
+        display: none;
+    }
+
+    .feature_in {
+        margin-bottom: 25px;
+    }
+
+    .buy_course {
+        margin-bottom: 25px;
+    }
+
+    .botimg {
+        width: 30%;
+        margin-bottom: 20px;
+        margin-top: 30px;
+    }
+
+    footer ul {
+        padding-left: 0;
+    }
+
+    footer {
+        text-align: center;
+        padding: 10% 0% 3%;
+    }
+
+    .testimonial{
+        text-align: center;
+    }
+}
+
+@media(min-width:321px) and (max-width:575px){
+    .navbar-brand {
+        width: 35%;
+    }
+
+    .fa, .fas {
+        font-size: 27px;
+    }
+
+
+    .navbar-light .navbar-nav .nav-link {
+        font-size: 15px;
+    }
+
+    .navbar-toggler:focus {
+        box-shadow: 0 0 0 0.20rem #636295;
+    }
+
+    .spacing {
+        padding: 36px 0px 70px;
+        text-align: center;
+    }
+
+    .banner-content .p1 {
+        font-size: 14px;
+    }
+
+    .banner-content h1 {
+        font-size: 44px;
+        line-height: 58px;
+    }
+
+    .banner-content {
+        padding-right: 0;
+        padding-left: 0;
+    }
+
+    .banner-content .p2 {
+        font-size: 14px;
+        line-height: 28px;
+    }
+
+    .banner_image {
+        display: none;
+    }
+
+    .feature_in {
+        margin-bottom: 25px;
+    }
+
+    .buy_course {
+        margin-bottom: 25px;
+    }
+
+    .botimg {
+        width: 30%;
+        margin-bottom: 20px;
+        margin-top: 30px;
+    }
+
+    footer ul {
+        padding-left: 0;
+    }
+
+    footer {
+        text-align: center;
+        padding: 10% 0% 3%;
+    }
+
+    .testimonial{
+        text-align: center;
+    }
+
+    .feature_in .problem_1 {
+        width: 20%;
+    }
+
+    .feature_in img {
+        width: 20%;
+    }
+
+}
+
+@media(min-width:576px) and (max-width:767px){
+    .navbar-brand {
+        width: 40%;
+    }
+
+    .fa, .fas {
+        font-size: 27px;
+    }
+
+
+    .navbar-light .navbar-nav .nav-link {
+        font-size: 15px;
+    }
+
+    .navbar-toggler:focus {
+        box-shadow: 0 0 0 0.20rem #636295;
+    }
+
+    .spacing {
+        padding: 36px 0px 70px;
+        text-align: center;
+    }
+
+    .banner-content .p1 {
+        font-size: 14px;
+    }
+
+    .banner-content h1 {
+        font-size: 44px;
+        line-height: 58px;
+    }
+
+    .banner-content {
+        padding-right: 0;
+        padding-left: 0;
+    }
+
+    .banner-content .p2 {
+        font-size: 14px;
+        line-height: 28px;
+    }
+    .banner_image {
+        padding: 0px 0px 0px 0px;
+        width: 70%;
+        padding-top: 40px;
+    }
+
+    .feature_in {
+        margin-bottom: 25px;
+    }
+
+    .buy_course {
+        margin-bottom: 25px;
+    }
+
+    .botimg {
+        width: 30%;
+        margin-bottom: 20px;
+        margin-top: 30px;
+    }
+
+    footer ul {
+        padding-left: 0;
+    }
+
+    footer {
+        text-align: center;
+        padding: 10% 0% 3%;
+    }
+
+    .testimonial{
+        text-align: center;
+    }
+
+    .feature_in .problem_1 {
+        width: 20%;
+    }
+
+    .feature_in img {
+        width: 20%;
+    }
+
+}
+
+@media(min-width:768px) and (max-width:991px){
+    .banner-content {
+        padding-right: 5px;
+    }
+
+    .navbar .container-fluid{
+        padding: 0px 0px;
+    }
+
+    .navbar-brand {
+        width: 25%;
+    }
+
+    .fa, .fas {
+        font-size: 25px;
+    }
+
+    .banner-content h1 {
+        line-height: 65px;
+    }
+
+    .banner-content .p2 {
+        font-size: 15px;
+        line-height: 30px;
+    }
+
+    .banner_image {
+        padding: 55px 5px 0px 10px;
+    }
+
+    .feature_in {
+        padding: 35px 15px 35px;
+    }
+
+    .buy_course {
+        padding: 15px;
+    }
+
+    .btn_buycourse {
+        font-size: 15px;
+        margin-bottom: 25px;
+    }
+
+    .buy_course i {
+        font-size: 15px;
+    }
+
+    .buy_course li {
+        font-size: 10px;
+    }
+
+    .buy_course i {
+        margin-right: 4px;
+    }
+
+    .botimg {
+        width: 23%;
+    }
+
+    .testimonial p {
+        font-size: 14px;
+        line-height: 25px;
+        margin: 0;
+    }
+
+    footer ul li {
+        font-size: 15px;
+        line-height: 25px;
+    }
+
+    footer p {
+        font-size: 14px;
+        line-height: 25px;
+    }
+
+}
+
+@media(min-width:992px) and (max-width:1199px){
+    .fa, .fas {
+        font-size: 20px;
+    }
+    .buy_course li {
+        font-size: 14px;
+    }
+
+    .banner-content {
+        padding-right: 20px;
+    }
+
+    .banner_image {
+        padding: 20px 50px 0px 25px;
+    }
+
+    .banner-content h1 {
+        line-height: 68px;
+        font-size: 42px;
+    }
+
+}
